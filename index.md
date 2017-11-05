@@ -1,6 +1,6 @@
 ## micah frank | sound design & programming
 
-###Micah Frank is an electronic artist that uses algorithmic methods to generate sound structures.
+### Micah Frank is an electronic artist that uses algorithmic methods to generate sound structures.
 
 He studied Jazz and Contemporary Music at The New School in New York, afterwards spending many years as a professional composer and sound designer. 
 
