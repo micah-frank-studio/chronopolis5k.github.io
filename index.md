@@ -1,5 +1,15 @@
 ## micah frank | sound design & programming
 
+###Micah Frank is an electronic artist that uses algorithmic methods to generate sound structures.
+
+He studied Jazz and Contemporary Music at The New School in New York, afterwards spending many years as a professional composer and sound designer. 
+
+Since 2006, Micah works as the lead developer of Puremagnetik.
+
+Recent projects include sound design for major music instrument and software manufacturers, feature film sound programming, interactive sonification installations and more.
+
+He lives in Brooklyn, New York
+
 {% comment %}
 
 You can use the [editor on GitHub](https://github.com/chronopolis5k/chronopolis5k.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
